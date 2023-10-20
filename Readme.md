@@ -11,6 +11,8 @@
 
 This example shows how to use the **XtraPrinting** library to export several  [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) controls into a single XLS document.
 
+![](exported-grids.png)
+
 ## Implementation Details
 
 You can export several grids into a single document in the following way:
